@@ -26,7 +26,7 @@
 **Login Main Menu**
 ![InkedLogin Menu_LI](https://user-images.githubusercontent.com/48765779/77918897-3013dd80-72a5-11ea-8908-1352542f09ab.jpg)
 
-**Login-Balance Checking**
+**Login Balance Checking**
 ![InkedLogiin BC_LI](https://user-images.githubusercontent.com/48765779/77919098-6c473e00-72a5-11ea-96ce-fe9225927e11.jpg)
 
 **Login Load Money to Your Account**
@@ -72,8 +72,3 @@
 -  <a href="https://github.com/iremnazcay" target="_blank">İremnaz ÇAY</a> 
 -  <a href="https://github.com/sinemertass">Sinem Sena Ertaş</a> 
 -  <a href="https://github.com/mervebosna" target="_blank">Merve Boşna</a> 
-
-
-
-
-
