@@ -1,12 +1,26 @@
 # card_balance_following_program
 
-***Features***
--Checking current balance account 
--Money transfer
--Load money
--Via using bank accounts
+**Features**
+- Checking current balance account 
+- Money transfer
+- Load money
+- Via using bank accounts
 
-***Pseudo code of our project***
+**Main Menu View**
+https://github.com/iremnazcay/card_balance_following_program/issues/1#issue-590295209
+
+**Register Menu**
+![Register Menu](https://user-images.githubusercontent.com/48765779/77916471-ca722200-72a1-11ea-9a2d-90591871b539.jpg)
+
+**Login Main Menu**
+![Login Menu Giris](https://user-images.githubusercontent.com/48765779/77918375-79aff880-72a4-11ea-8561-701cdc90c80e.jpg)
+
+**Login-Balance Checking**
+![LoginBalanceCheck](https://user-images.githubusercontent.com/48765779/77917129-d01c3780-72a2-11ea-9bfe-b163bcf9b99a.jpg)
+
+**
+
+**Pseudo code of our project**
 1) Choose register or login operation
 2) Prompt to the user to enter 1 or 2 (1 for register, 2 for login)
 3) If 1 is entered, go to step 5
