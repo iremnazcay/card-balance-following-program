@@ -1,8 +1,9 @@
 # Card Balance Following Program
 
 ## Features
+- [x] Register 
+- [x] Login
 - [x] Checking current balance account
-- [x] Money transfer
 - [x] Load money to your account with credit card
 - [x] Load money to your account with bank card
 - [x] Transfer money to different account with credit card
