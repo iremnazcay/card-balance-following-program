@@ -1,4 +1,4 @@
-# card_balance_following_program
+# Card Balance Following Program
 
 ## Features
 - [x] Checking current balance account
