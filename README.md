@@ -6,19 +6,27 @@
 - Load money
 - Via using bank accounts
 
-**Main Menu View**
-https://github.com/iremnazcay/card_balance_following_program/issues/1#issue-590295209
+**Main Menu**
+![1 ana menü](https://user-images.githubusercontent.com/48765779/77918669-e1feda00-72a4-11ea-8427-c132dc639131.jpg)
 
 **Register Menu**
 ![Register Menu](https://user-images.githubusercontent.com/48765779/77916471-ca722200-72a1-11ea-9a2d-90591871b539.jpg)
 
+**Login Enty Menu**
+![Login Menu Giris](https://user-images.githubusercontent.com/48765779/77918688-e6c38e00-72a4-11ea-9f34-b9f222071c8d.jpg)
+
 **Login Main Menu**
-![Login Menu Giris](https://user-images.githubusercontent.com/48765779/77918375-79aff880-72a4-11ea-8561-701cdc90c80e.jpg)
+![InkedLogin Menu_LI](https://user-images.githubusercontent.com/48765779/77918897-3013dd80-72a5-11ea-8908-1352542f09ab.jpg)
 
 **Login-Balance Checking**
-![LoginBalanceCheck](https://user-images.githubusercontent.com/48765779/77917129-d01c3780-72a2-11ea-9bfe-b163bcf9b99a.jpg)
+![InkedLogiin BC_LI](https://user-images.githubusercontent.com/48765779/77919098-6c473e00-72a5-11ea-96ce-fe9225927e11.jpg)
 
-**
+**Login Load Money to Your Account**
+![Login Load Money](https://user-images.githubusercontent.com/48765779/77919332-b7615100-72a5-11ea-9009-94b498ef394c.png)
+
+**Login Load Money to Different Account**
+![InkedLogin Load Money 2_LI](https://user-images.githubusercontent.com/48765779/77919708-322a6c00-72a6-11ea-817a-b8aed19b205a.jpg)
+
 
 **Pseudo code of our project**
 1) Choose register or login operation
